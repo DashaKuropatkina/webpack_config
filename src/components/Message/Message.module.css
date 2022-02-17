@@ -1,0 +1,26 @@
+.message_box {
+    width: 760px;
+    height: 340px;
+    background: burlywood;
+    border: 2px solid #ccc;
+    display: flex;
+    align-items: center;
+}
+.message_header {
+    padding: 8px;
+}
+.message_author {
+    color: chocolate;
+}
+.message_author_name {
+    color: saddlebrown;
+    font-size: 14px;
+    text-align: center;
+}
+.message_text {
+    margin: 8px;
+    padding: 8px;
+    background: palegoldenrod;
+    border-radius: 15px 0 0 15px;
+    outline: none;
+}
